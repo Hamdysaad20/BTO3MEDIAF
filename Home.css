@@ -802,6 +802,7 @@
 
 .u-section-4 .u-layout-cell-1 {
   min-height: 610px;
+  animation-duration: 1000ms;
 }
 
 .u-section-4 .u-image-1 {
@@ -939,7 +940,6 @@
 
   .u-section-4 .u-layout-cell-1 {
     min-height: 771px;
-    animation-duration: 1000ms;
   }
 
   .u-section-4 .u-layout-cell-2 {
